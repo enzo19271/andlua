@@ -1,0 +1,14 @@
+{
+  "apps":[
+    {
+      "name":"Test App",
+      "creator":"Enzo",
+      "date":"15 Mei 2026",
+      "source":"Github",
+      "extension":".zip",
+      "icon":"https://raw.githubusercontent.com/USERNAME/REPO/main/icon.png",
+      "download1":"https://example.com/file1.zip",
+      "download2":"https://example.com/file2.zip"
+    }
+  ]
+}
