@@ -1,1 +1,1 @@
-{"lastResetDate":"2026-05-16","log":{},"habits":[{"name":"Bangun Jam 5 Pagi","tag":"health","id":1},{"name":"Belajar Coding 1 Jam","tag":"skill","id":2},{"name":"Olahraga Ringan","tag":"health","id":3},{"name":"Membaca Buku","tag":"mindset","id":4}],"streak":0}
+{"streak":1,"habits":[{"tag":"health","name":"Bangun Jam 5 Pagi","id":1},{"tag":"skill","name":"Belajar Coding 1 Jam","id":2},{"tag":"health","name":"Olahraga Ringan","id":3},{"tag":"mindset","name":"Membaca Buku","id":4}],"lastResetDate":"2026-05-16","log":{"2026-05-16":[1,3,4]}}
